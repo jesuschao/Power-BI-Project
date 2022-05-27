@@ -5,11 +5,15 @@
 
 ### PURPOSE
 
-This work has no other aim than using different aspects from Power BI such as:
+This work has no other purpose than using different aspects from Power BI such as:
 
 - Connecting and shaping data. 
 
+- Connecting and shaping data with Power BI.
+
 - Analyzing Data with DAX calculations.
 
-- Visualization Data with Power BI report.
+- Visualization Data with Power BI reports.
+
+This exercise was done from an [Udemy](https://www.udemy.com/course-dashboard-redirect/?course_id=1570206) course. All data has been taken from this course.
 
