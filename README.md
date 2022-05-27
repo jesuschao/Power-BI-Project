@@ -15,5 +15,5 @@ This work has no other purpose than using different aspects from Power BI such a
 
 - Visualization Data with Power BI reports.
 
-This exercise was done from an [Udemy](https://www.udemy.com/course-dashboard-redirect/?course_id=1570206) course. All data has been taken from this course.
+This exercise was done from an [Udemy](https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/) course. All data has been taken from this course.
 
