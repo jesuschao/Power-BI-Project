@@ -5,7 +5,7 @@
 
 ### PURPOSE
 
-This work has no other purpose than using different aspects from Power BI such as:
+The purpose of this project is using different aspects from Power BI such us:
 
 - Connecting and shaping data. 
 
@@ -15,5 +15,11 @@ This work has no other purpose than using different aspects from Power BI such a
 
 - Visualization Data with Power BI reports.
 
+It has been prepared a Dashboard of a non real company using Data referred to Incomes, Sales, Calendar ...
+
+A very complete and interesting exercise that has allowed me to practice DAX Calculations, Calculated Columnes, Measurements, Bookmarks ...
+
 This exercise was done from an [Udemy](https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/) course. All data has been taken from this course.
+
+
 
